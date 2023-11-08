@@ -22,4 +22,4 @@ After they review your code, they will run the code as-is to verify that you hav
 After these initial checks, your TA will run the tests inside `studentgrade.specx.js`. You may have noticed this file already, but this file only contains grading tests for your TA to use.
 If you would like to see if your work will pass the grading tests, run the tests inside that file by changing the extension to `spec.js`. 
 
-When you are ready, submit the link to your github repository link in Canvas!
+When you are ready, submit the link to your github repository link in Canvas! 
